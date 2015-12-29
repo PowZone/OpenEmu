@@ -32,3 +32,7 @@ Minimum Requirements
 1. OS X 10.11
 2. Core 2 Duo Processor
 3. GMA X3100 Graphics
+
+OpenEmu 2.0.1 Binary for OS X Yosemite 10.10
+--------------------
+https://mega.nz/#!S9sxUQYA!Z1EPrG6fFrJEiTT8GuhP_NN7bKokcv-pfkziLiYM9h4
